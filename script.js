@@ -1,6 +1,6 @@
 let currentQuestion = 1;
 const answers = {};
-const redirectUrl = 'https://ac-ld.catsys.jp/35cdb41fDc62db0D/cl/?bId=d69VVc9e';
+const redirectUrl = 'https://www.s-b-c.net/laser/bihada/pico/#what';
 
 // カスタムカーソルの初期化
 function initCursor() {

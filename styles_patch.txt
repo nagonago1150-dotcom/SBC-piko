@@ -1,0 +1,8 @@
+# Remove nowrap and scale from 768px media query
+# Lines 894-915 will be replaced
+
+# For 480px media query (lines 948-966)
+# Remove nowrap and scale
+
+# For 380px media query (lines 983-991)  
+# Remove scale transforms
