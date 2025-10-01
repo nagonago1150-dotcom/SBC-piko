@@ -1030,3 +1030,15 @@ body::after {
         padding: 5px 10px;
     }
 }
+
+
+/* PC display: hide break tag on mobile */
+.pc-br {
+    display: inline;
+}
+
+@media (max-width: 768px) {
+    .pc-br {
+        display: none;
+    }
+}
